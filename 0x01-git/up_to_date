@@ -1,3 +1,14 @@
-
-git fetch origin 
-git merge origin/main
+root@53563d96d70c:/# cd alx-pre_course                                                                                                  
+root@53563d96d70c:/alx-pre_course# git remote show origin                                                                               
+* remote origin                                                                                                                         
+  Fetch URL: https://alxtask@github.com/JihadHamdy35/alx-pre_course.git                                                                 
+  Push  URL: https://alxtask@github.com/JihadHamdy35/alx-pre_course.git                                                                 
+  HEAD branch: master                                                                                                                   
+  Remote branches:                                                                                                                      
+    main          new (next fetch will store in remotes/origin)                                                                         
+    master        tracked                                                                                                               
+    update_script new (next fetch will store in remotes/origin)                                                                         
+  Local branch configured for 'git pull':                                                                                               
+    master merges with remote master                                                                                                    
+  Local ref configured for 'git push':                                                                                                  
+    master pushes to master (local out of date)
